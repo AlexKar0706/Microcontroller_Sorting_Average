@@ -12,6 +12,7 @@ There is 8 available sorting algorthms.
 | Merge sort | void mergeSort(short arr[], short iLeft, short iRight) |
 | Introsort | void introSort(short arr[], short empty, short len) |
 | Tim sort | void timSort(short arr[], short empty, short n) |
+
 Some sorting algorithms has "short empty" variable, which is just used to fill the function with additional attribute.
 ## Main function
 To calculate average time needed for sorting, it is needed to include sorting algorithm header and then pass sorting algorithm's function into avgTime function.
